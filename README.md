@@ -1,0 +1,2 @@
+# Copilot_Comparison
+Copilotの性能比較用プロンプトと実行結果の一例です。
